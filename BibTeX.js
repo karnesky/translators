@@ -6,6 +6,7 @@
 	"minVersion": "2.1.9",
 	"maxVersion": "",
 	"priority": 200,
+	
 	"configOptions": {
 		"getCollections": true
 	},
@@ -2197,6 +2198,8 @@ var mappingTable = {
 	"\u016B":"{\\=u}", // LATIN SMALL LETTER U WITH MACRON
 	"\u016C":"{\\u U}", // LATIN CAPITAL LETTER U WITH BREVE
 	"\u016D":"{\\u u}", // LATIN SMALL LETTER U WITH BREVE
+	"\u016E":"{\\r U}", // LATIN CAPITAL U WITH A RING ABOVE
+	"\u016F":"{\\r u}", // LATIN SMALL U WITH A RING ABOVE
 	"\u0170":"{\\H U}", // LATIN CAPITAL LETTER U WITH DOUBLE ACUTE
 	"\u0171":"{\\H u}", // LATIN SMALL LETTER U WITH DOUBLE ACUTE
 	"\u0172":"{\\k U}", // LATIN CAPITAL LETTER U WITH OGONEK
@@ -2325,6 +2328,8 @@ var mappingTable = {
 	"\u1E95":"{\\b z}", // LATIN SMALL LETTER Z WITH LINE BELOW
 	"\u1E96":"{\\b h}", // LATIN SMALL LETTER H WITH LINE BELOW
 	"\u1E97":"{\\\"t}", // LATIN SMALL LETTER T WITH DIAERESIS
+	"\u01E98":"{\\r w}", // LATIN SMALL W WITH A RING ABOVE
+	"\u01E99":"{\\r y}", // LATIN SMALL Y WITH A RING ABOVE
 	"\u1EA0":"{\\d A}", // LATIN CAPITAL LETTER A WITH DOT BELOW
 	"\u1EA1":"{\\d a}", // LATIN SMALL LETTER A WITH DOT BELOW
 	"\u1EB8":"{\\d E}", // LATIN CAPITAL LETTER E WITH DOT BELOW
